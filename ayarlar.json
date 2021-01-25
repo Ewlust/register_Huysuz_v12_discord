@@ -1,0 +1,20 @@
+  {
+  "prefix" : "prefix",
+  "sahip" : "sahibid",
+  "sunucu" : "sunucuid",
+  "token" : "token",
+  
+  "tag" : "tag",
+
+  "yetkiliROL" : "kayıtrolid",
+
+  "erkekROL" : "erkekrolid",
+  "erkekSEMBOL" : "erkeksembolrolid",
+
+  "kadınROL" : "kadınrolid",
+  "kadınSEMBOL" : "kadınsembolrolid",
+
+  "kayıtsızROL" : "kayıtsızrolid",
+
+  "botROL" : "botrolid"
+}
